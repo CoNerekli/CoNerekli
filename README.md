@@ -1,5 +1,7 @@
 CoNeřekli
 
+---> Celý zdroják členěný podle jednotlivých souborů ve Wiki
+
 Tento projekt je zaměřen na vytvoření rozšíření pro prohlížeč, které umožní uživatelům ukládat a veřejně sdílet poznámky k inzerátům na realitních serverech, jako je například sreality.cz. Rozhodl jsem se projekt zveřejnit na GitHubu, i když jsem neměl čas jej dokončit, aby mohl posloužit ostatním vývojářům nebo zájemcům o jeho další rozvoj.
 
 Základní funkce
