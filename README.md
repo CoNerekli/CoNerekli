@@ -28,3 +28,11 @@ Transparentnost: Přináší větší transparentnost na inzertní servery, kter
 Komunitní podpora: Uživatelé si mohou vzájemně pomáhat sdílením důležitých informací a zkušeností.
 Ochrana spotřebitelů: Pomáhá chránit uživatele před potenciálně nevýhodnými nebo klamavými nabídkami.
 I když projekt není dokončený, věřím, že jeho zveřejnění na GitHubu může být užitečné pro komunitu a případně inspirovat další vývojáře k jeho dokončení nebo vylepšení.
+
+
+
+[![chrome-extension](https://img.shields.io/badge/Chrome%20Extension-blue)]()
+[![real-estate](https://img.shields.io/badge/Real%20Estate-red)]()
+[![czech](https://img.shields.io/badge/Language-Czech-orange)]()
+
+
