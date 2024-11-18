@@ -28,6 +28,20 @@ Komunitní podpora: Uživatelé si mohou vzájemně pomáhat sdílením důleži
 Ochrana spotřebitelů: Pomáhá chránit uživatele před potenciálně nevýhodnými nebo klamavými nabídkami.
 I když projekt není dokončený, věřím, že jeho zveřejnění na GitHubu může být užitečné pro komunitu a případně inspirovat další vývojáře k jeho dokončení nebo vylepšení.
 
+Pro rozšíření funkcionality pluginu CoNerekli by bylo vhodné zvážit integraci s různými typy webových serverů, kde je omezená možnost interakce uživatelů, například vypnuté komentáře. Mezi takové platformy patří:
+
+1. **YouTube**: Mnozí tvůrci obsahu na YouTube deaktivují komentáře u svých videí, což omezuje zpětnou vazbu od diváků. Plugin by mohl umožnit uživatelům diskutovat o obsahu videí na externí platformě.
+
+2. **Oficiální webové stránky institucí a organizací**: Mnohé vládní, nevládní a korporátní weby publikují důležité informace bez možnosti komentářů. Integrace pluginu by poskytla prostor pro veřejnou diskusi o těchto informacích.
+
+3. **Online magazíny a zpravodajské portály**: Některé zpravodajské servery, jako například *The Economist* nebo *National Geographic*, často nemají sekce pro komentáře pod články. Plugin by mohl nabídnout platformu pro čtenářské reakce a diskuse.
+
+4. **Vzdělávací platformy**: Weby poskytující online kurzy nebo přednášky, jako je *Coursera* nebo *edX*, mohou mít omezené možnosti pro diskusi o obsahu. Plugin by mohl usnadnit výměnu názorů mezi studenty.
+
+5. **Blogy a osobní stránky**: Někteří autoři blogů deaktivují komentáře, aby se vyhnuli spamům nebo negativním reakcím. Plugin by mohl poskytnout alternativní prostor pro čtenářské komentáře.
+
+Integrace pluginu CoNerekli s těmito typy webových serverů by mohla zvýšit interaktivitu a umožnit uživatelům sdílet své názory i tam, kde je to jinak omezené. 
+
 
 
 
