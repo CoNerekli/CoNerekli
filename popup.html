@@ -1,0 +1,22 @@
+<!-- popup.html -->
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>CoNeřekli</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="popup-container">
+    <h1>CoNeřekli</h1>
+    <div id="auth-container">
+      <button id="sign-in-button">Přihlásit se pomocí Google</button>
+      <button id="sign-out-button" style="display: none;">Odhlásit se</button>
+    </div>
+  </div>
+  <!-- Firebase SDK -->
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.23.0/firebase-auth-compat.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
